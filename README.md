@@ -1,2 +1,1 @@
-# React-Web-Portfolio
-A portfolio website
+React-Web-Portfolio from codeacademy tutorial
